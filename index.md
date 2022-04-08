@@ -1,2 +1,2 @@
-## The original ones
-![Image of clock](OG/1.PNG)
+## The original ones 
+![Image of clock](2021/OG/1.PNG)
